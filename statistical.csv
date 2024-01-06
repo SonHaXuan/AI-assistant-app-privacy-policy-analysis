@@ -1,0 +1,4 @@
+Category,Download Range,Bad Standard,Good Standard
+AI Assistant,More than 10M,6,4
+AI Assistant,From 1M to 10M,3,16
+AI Assistant,Less than 1M,29,42
